@@ -18,7 +18,7 @@
 1. 開啟終端機(Terminal)cd 到存放專案本機位置並執行
 
    ```bash
-   npm install
+   git clone https://github.com/Jacques-tw/Restaurant_list.git
    ```
 
 2. 初始
