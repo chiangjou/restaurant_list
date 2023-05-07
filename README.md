@@ -43,7 +43,7 @@
    Express is running on http://localhost:3000
    ```
 
-5. 請打開瀏覽器進入到以下網址：`
+5. 請打開瀏覽器進入到以下網址：
 
    ```bash
    http://localhost:3000
