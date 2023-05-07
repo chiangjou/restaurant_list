@@ -24,7 +24,7 @@
 2. 初始
 
    ```bash
-   cd Restaurant_list
+   cd restaurant_list
    ```
 
    ```bash
